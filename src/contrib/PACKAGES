@@ -1,0 +1,8 @@
+Package: rWCVPdata
+Version: 0.3.1
+Depends: R (>= 2.10)
+Imports: glue, httr, rvest, stringr
+Suggests: testthat (>= 3.0.0)
+License: GPL (>= 3)
+MD5sum: 61cc89f2b39b1c1051478c51b70f031e
+NeedsCompilation: no
