@@ -4,5 +4,5 @@ Depends: R (>= 2.10)
 Imports: glue, httr, rvest, stringr
 Suggests: testthat (>= 3.0.0)
 License: GPL (>= 3)
-MD5sum: 61cc89f2b39b1c1051478c51b70f031e
+MD5sum: 8ad0a03456abea9353884e08d606dde3
 NeedsCompilation: no
