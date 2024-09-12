@@ -15,3 +15,12 @@ Suggests: testthat (>= 3.0.0)
 License: GPL (>= 3)
 MD5sum: 188aa5929abe9255b629f319da558b35
 NeedsCompilation: no
+
+Package: rWCVPdata
+Version: 0.5.0
+Depends: R (>= 2.10)
+Imports: glue, httr, rvest, stringr
+Suggests: testthat (>= 3.0.0)
+License: GPL (>= 3)
+MD5sum: c063c39aec2b47460f8351f5e4dc169e
+NeedsCompilation: no
